@@ -1,8 +1,9 @@
 ## 👋 Olá eu sou a Alessandra Mairis, Desenvolvedora front-end | UI UX em formação!
 
 
-#### I'm a self-taught front-end developer from Brazil 🇧🇷, constantly learning and growing
-
+#### I'm a passionate front-end developer in training from Brazil 🇧🇷.
+[![English](https://img.shields.io/badge/English-Intermediary-orange)](https://www.example.com)
+[![Français](https://img.shields.io/badge/Français-Intermédiaire-orange)](https://www.example.com)
  <div>
   <a href="https://github.com/Nana-John">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nana-John&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
