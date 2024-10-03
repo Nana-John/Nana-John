@@ -1,5 +1,8 @@
 ## 👋 Olá eu sou a Alessandra Mairis, Desenvolvedora front-end | UI UX em formação!
 
+
+#### I'm a self-taught front-end developer from Brazil 🇧🇷, constantly learning and growing
+
  <div>
   <a href="https://github.com/Nana-John">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nana-John&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,18 +25,3 @@
   <a href="https://www.linkedin.com/in/alessandra-mairis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-#### Top Repositories
-
-<div>
-<a href="https://github.com/Nana-John/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nana-John&repo=github-readme-stats&theme=dracula" />
-</a>
-<a href="https://github.com/Nana-John/Nana-John.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nana-John&repo=Nana-John.github.io&theme=dracula" />
-</a>
-
-<br />
-<br />
-</div>
-
