@@ -16,7 +16,7 @@
   <img align="center" alt="Alessandra-Mairis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Alessandra-Mairis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
    <img align="center" alt="Alessandra-Mairis-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-   <img align="center" alt="Alessandra-Mairis-photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+   <img align="center" alt="Alessandra-Mairis-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
           
 
    
@@ -29,7 +29,9 @@
   <img align="center" alt="Alessandra-Mairis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
    <img align="center" alt="Alessandra-Mairis-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
     <img align="center" alt="Alessandra-Mairis-gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" />
-          
+    <img align="center" alt="Alessandra-Mairis-less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" />
+   <img align="center" alt="Alessandra-Mairis-grunt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original-wordmark.svg" />
+               
     
                  
 </div>
