@@ -6,10 +6,11 @@
 [![Français](https://img.shields.io/badge/Français-Intermédiaire-orange)](https://www.example.com)
 
 
-   ####   Tools And Technologies:
+   ####   Tools
      
 <div style="display: inline_block"><br>
    
+   <img align="center" alt="Alessandra-Mairis-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
    <img align="center" alt="Alessandra-Mairis-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> 
     <img align="center" alt="Alessandra-Mairis-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Alessandra-Mairis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
