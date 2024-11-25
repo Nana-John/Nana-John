@@ -31,10 +31,8 @@
    #### Learning       
    
 <div style="display: inline_block"><br>
-   
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
-                    
-  <img align="center" alt="Alessandra-Mairis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+                      
+  <img align="center" alt="Alessandra-Mairis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/vuejs-original.svg"/>
   <img align="center" alt="Alessandra-Mairis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 
                
