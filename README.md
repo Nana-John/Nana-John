@@ -1,4 +1,4 @@
-## 👋 Olá eu sou a Alessandra Mairis, Desenvolvedora front-end | UI UX em formação!
+## 👋 Olá eu sou a Alessandra Mairis, Desenvolvedora front-end !
 
 
 #### I'm a passionate front-end developer in training from Brazil 🇧🇷.
